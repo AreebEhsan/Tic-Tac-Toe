@@ -1,4 +1,4 @@
-import View from "view.js";
+import View from "./view.js";
 
 const App = {
     // All of our selected HTML elements
